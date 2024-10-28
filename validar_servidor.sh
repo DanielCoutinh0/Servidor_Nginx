@@ -23,7 +23,7 @@ SERVICO="Nginx"
 
 7. Validar se o Nginx está rodando
 if systemctl is-active --quiet nginx; then
-    echo "$DATA_HORA - Serviço: $SERVICO - Status: ONLINE - O serviço Nginx está rodando normalmente." >> "$LOG_ONLINE"
+    echo "$DATA_HORA - Serviço: $SERVICO - Status: ONLINE - O servidor esta rodando." >> "$LOG_ONLINE"
 else
-    echo "$DATA_HORA - Serviço: $SERVICO - Status: OFFLINE - O serviço Nginx está parado." >> "$LOG_OFFLINE"
+    echo "$DATA_HORA - Serviço: $SERVICO - Status: OFFLINE - O servidor esta parado ou com problemas ." >> "$LOG_OFFLINE"
 fi
