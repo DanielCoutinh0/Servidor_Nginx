@@ -20,4 +20,26 @@ Servidor Nginx, utilizando o Ubuntu-24.04.1 em uma Virtual Machine.
 
 ° Inicie a VM, selecione o idioma e siga o assistente de instalação do Ubuntu.
 
+
 ° Conclua a instalação, e o Ubuntu será reiniciado já pronto para uso na VM.
+
+# Imagens
+Nginx Rodando
+![Captura de tela Nginx rodando](https://github.com/user-attachments/assets/2a7be4a3-e728-4fb3-9e70-997dad81ee4a)
+
+
+![Captura de tela Nginx navegador](https://github.com/user-attachments/assets/1710c2d0-fd58-4d42-ac26-a48ee480d7d8)
+
+Script
+![Captura de tela Script](https://github.com/user-attachments/assets/1be099c3-b0a4-4fd3-adb3-5b85280fdad3)
+
+
+![Captura de tela Log Online](https://github.com/user-attachments/assets/a711ba33-f059-4648-9555-84ff1e8b0a65)
+
+
+![Captura de tela Log Offline](https://github.com/user-attachments/assets/7cdbaaa7-2a9d-4c83-b5c9-6c6ef84bd3ff)
+
+Script Cron 5 Minutos
+![Captura de tela Script Cron](https://github.com/user-attachments/assets/bcf58298-21cd-4a03-be40-ef880832824e)
+
+
