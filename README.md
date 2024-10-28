@@ -42,4 +42,14 @@ Script
 Script Cron 5 Minutos
 ![Captura de tela Script Cron](https://github.com/user-attachments/assets/bcf58298-21cd-4a03-be40-ef880832824e)
 
+# Sites Usados
+https://tecnoblog.net/responde/como-criar-uma-maquina-virtual-virtualbox/
+
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-pt
+
+https://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778
+
+https://www.datacamp.com/pt/tutorial/how-to-write-bash-script-tutorial
+
+https://www.homehost.com.br/blog/tutoriais/linux/cron-linux/
 
