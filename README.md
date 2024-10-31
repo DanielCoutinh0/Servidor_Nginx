@@ -31,7 +31,7 @@ Nginx Rodando
 ![Captura de tela Nginx navegador](https://github.com/user-attachments/assets/1710c2d0-fd58-4d42-ac26-a48ee480d7d8)
 
 Script
-![Captura de tela Script](https://github.com/user-attachments/assets/1be099c3-b0a4-4fd3-adb3-5b85280fdad3)
+![Captura de tela de Script](https://github.com/user-attachments/assets/e7133ddb-d55a-4651-bea9-36a84b1c55c9)
 
 
 ![Captura de tela Log Online](https://github.com/user-attachments/assets/a711ba33-f059-4648-9555-84ff1e8b0a65)
@@ -40,7 +40,7 @@ Script
 ![Captura de tela Log Offline](https://github.com/user-attachments/assets/7cdbaaa7-2a9d-4c83-b5c9-6c6ef84bd3ff)
 
 Script Cron 5 Minutos
-![Captura de tela Script Cron](https://github.com/user-attachments/assets/bcf58298-21cd-4a03-be40-ef880832824e)
+![Captura de tela de Script 5m](https://github.com/user-attachments/assets/1d07c735-cfdb-4f84-a59d-b1f7cefaeae2)
 
 # Sites Usados
 https://tecnoblog.net/responde/como-criar-uma-maquina-virtual-virtualbox/
