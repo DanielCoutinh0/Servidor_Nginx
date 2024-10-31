@@ -22,7 +22,7 @@ STATUS_OFFLINE="OFFLINE"
 
 7. Validar se o Nginx está rodando
 if systemctl is-active --quiet nginx; then
-    echo "$DATA_HORA_ATUAL - Serviço: $_NOME_SERVICO - Status: $STATUS_ONLINE - O servidor esta rodando." tee -a "$DIRETORIO_ONLINE" > /dev/null
+    echo "$DATA_HORA_ATUAL - Serviço: $NOME_SERVICO - Status: $STATUS_ONLINE - O servidor esta rodando." | tee -a "$DIRETORIO_ONLINE" > /dev/null
 else
-    echo "$DATA_HORA_ATUAL - Serviço: $NOME_SERVICO - Status: $STATUS_OFFLINE - O servidor esta parado ou com problemas ." tee -a "$DIRETORIO_OFFLINE" > /dev/null
+    echo "$DATA_HORA_ATUAL - Serviço: $NOME_SERVICO - Status: $STATUS_OFFLINE - O servidor esta parado ou com problemas ." | tee -a "$DIRETORIO_OFFLINE" > /dev/null
 fi
