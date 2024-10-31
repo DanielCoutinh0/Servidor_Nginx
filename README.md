@@ -31,7 +31,7 @@ Nginx Rodando
 ![Captura de tela Nginx navegador](https://github.com/user-attachments/assets/1710c2d0-fd58-4d42-ac26-a48ee480d7d8)
 
 Script
-![Captura de tela de Script](https://github.com/user-attachments/assets/c16e9fc5-a717-479a-a1ec-56fed8bb62c3)
+![Captura de tela de Scrip](https://github.com/user-attachments/assets/2e3c878e-48dd-4a28-8ecc-3fddcf148bd2)
 
 
 ![Captura de tela Log Online](https://github.com/user-attachments/assets/a711ba33-f059-4648-9555-84ff1e8b0a65)
