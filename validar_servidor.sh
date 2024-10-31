@@ -7,8 +7,8 @@ sudo nano /usr/local/bin/validar_servidor.sh
 
 #Dentro do Script
 3. Arquivos de saída para online e offline
-DIRETORIO_ONLINE="/var/log/nginx_validacao/nginx_online.log"
-LOG_OFFLINE="/var/log/nginx_validacao/nginx_offline.log"
+DIRETORIO_ONLINE="/var/log/nginx_validacao/nginx_online.txt"
+LOG_OFFLINE="/var/log/nginx_validacao/nginx_offline.txt"
 
 4. Data e Hora
 DATA_HORA_ATUAL=$(date +'%Y-%m-%d %H:%M:%S')
